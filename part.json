@@ -1,0 +1,11 @@
+{
+	"priority": 998,
+	"name": "io",
+	"router": [{
+		"name": "Basic",
+		"src": "index.js"
+	}],
+	"dependencies": {
+		"socket.io": "*"
+	}
+}
